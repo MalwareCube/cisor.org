@@ -1,4 +1,48 @@
+body {
+    box-sizing: border-box;
+}
+
 #mainLogo {
     max-width: 120px;
     padding: 10px;
+}
+
+.swatch {
+    display: block;
+    margin-top: 20px;
+    margin-right: 20px;
+
+    padding: 0;
+    padding: 40px;
+    border: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#s1 {
+    background-color: #ffffff;
+    color: black;
+    border: solid 1px rgb(228, 228, 228);
+}
+
+#s2 {
+    background-color: #f1f3f6;
+    color: black;
+}
+
+#s3 {
+    background-color: #2e2e2e;
+}
+
+#s4 {
+    background-color: #13385e;
+}
+
+#s5 {
+    background-color: #3b648d;
+}
+
+#s6 {
+    background-color: #cbb051;
 }
